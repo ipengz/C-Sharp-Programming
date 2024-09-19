@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.exe
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.deps.json
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.runtimeconfig.json
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.dll
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.pdb
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.dll
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\refint\InheritanceApp.dll
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.pdb
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.genruntimeconfig.cache
+C:\Users\User\source\repos\InheritanceApp\InheritanceApp\obj\Debug\net8.0\ref\InheritanceApp.dll
