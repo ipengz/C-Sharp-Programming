@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.exe
+C:\Users\User\source\repos\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.deps.json
+C:\Users\User\source\repos\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.runtimeconfig.json
+C:\Users\User\source\repos\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.dll
+C:\Users\User\source\repos\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.pdb
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.dll
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\refint\ClassApp.dll
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.pdb
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassApp\ClassApp\obj\Debug\net8.0\ref\ClassApp.dll
