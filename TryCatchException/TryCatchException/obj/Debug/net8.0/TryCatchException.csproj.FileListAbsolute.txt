@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TryCatchException\TryCatchException\bin\Debug\net8.0\TryCatchException.exe
+C:\Users\User\source\repos\TryCatchException\TryCatchException\bin\Debug\net8.0\TryCatchException.deps.json
+C:\Users\User\source\repos\TryCatchException\TryCatchException\bin\Debug\net8.0\TryCatchException.runtimeconfig.json
+C:\Users\User\source\repos\TryCatchException\TryCatchException\bin\Debug\net8.0\TryCatchException.dll
+C:\Users\User\source\repos\TryCatchException\TryCatchException\bin\Debug\net8.0\TryCatchException.pdb
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.AssemblyInfo.cs
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.dll
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\refint\TryCatchException.dll
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.pdb
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\TryCatchException.genruntimeconfig.cache
+C:\Users\User\source\repos\TryCatchException\TryCatchException\obj\Debug\net8.0\ref\TryCatchException.dll
